@@ -1,7 +1,9 @@
 # surfs_up
 
 ## Overview of the analysis
-W Avy, a key investor for my pilot project "Surf and Shake Shop" has requested temperature data for the month of June and December in Oahu so that he can determine whether my business is sustainable year-round. For this purpose, I have used tools such as Jupyter notebook, VS Studio and SQLite to analyize the data and come out with meaning full rsults, which can then be shared with his company's Board of Directors and SQlite database was used to make querries regarding the weather. 
+W Avy, a key investor for my pilot project "Surf and Shake Shop" has requested temperature data for the month of June and December in Oahu so that he can determine whether Surf and Icecream business is sustainable year-round. For this purpose, I have used tools such as Jupyter notebook, VS Studio and SQLite to analyize the data and SQlite database was used to make queries regarding the weather. 
+The analysis will be sared with W Avy company's Board of Directors so that they can review it and make the investment decision. 
+
 
 
 ## Results
