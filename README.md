@@ -26,5 +26,5 @@ Further analysis of the precipitation levels for both months was carried out and
 
 ![](https://github.com/Manishthapa2022/surfs_up/blob/main/Analysis/Precipitation_comparision.png)
 
-Again it can bee seen that although the Decembber has a higher standard dev (0.5414) and highher max values(6.42) as compared to June at std dev(0.3357) and max value (4.43), the overall precipitation levels are almost the same (The 25,50 and 75 quartile values are almost same). Thus it can be safely concluded that although December has more temp anad precipitation variation as compared to June, the temperatures and precipitation for both months are almost the same an favourable to Surfing and icecream sales. 
+Again it can bee seen that although the December has a higher standard dev (0.5414) and higher max values(6.42) as compared to June at std dev(0.3357) and max value (4.43), the precipitation levels are almost the same when we refer to 25, 50 and 75 quartile values. Thus it can be safely concluded that although December has more temp anad precipitation variation as compared to June, the temperatures and precipitation for both months are almost the same and favourable to Surfing and icecream sales. 
 
