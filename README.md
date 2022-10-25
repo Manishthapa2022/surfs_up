@@ -6,5 +6,5 @@ ___
 ## Results
 
 After carrying out the necessary investigation, the following table was created for the month of December and June. 
-![Comparision Table]
-(https://github.com/Manishthapa2022/surfs_up/blob/main/Analysis/Temp_comparision.png)
+
+![](https://github.com/Manishthapa2022/surfs_up/blob/main/Analysis/Temp_comparision.png)
